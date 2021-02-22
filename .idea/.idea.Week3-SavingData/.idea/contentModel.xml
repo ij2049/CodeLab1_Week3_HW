@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\inajo\AppData\local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\inajo\AppData\local\JetBrains\Rider2020.3\resharper-host\local\Transient\Rider\v203\SolutionCaches\_Week3-SavingData.1596532598.00" t="ExcludeRecursive" />
+    <e p="C:\Users\inajo\Desktop\folder\NYU class\2020-2\Game Studio2\Unity\Codelab1-S21-ClassCode\Week3-SavingData" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Logs" t="Include">
+          <e p="highScore.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="GameManager.cs" t="Include" />
+          <e p="PlayerControl.cs" t="Include" />
+          <e p="Prize.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Week3-SavingData.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

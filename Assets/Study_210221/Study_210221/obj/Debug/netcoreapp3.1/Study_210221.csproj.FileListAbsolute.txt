@@ -1,0 +1,13 @@
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\bin\Debug\netcoreapp3.1\Study_210221.exe
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\bin\Debug\netcoreapp3.1\Study_210221.deps.json
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\bin\Debug\netcoreapp3.1\Study_210221.runtimeconfig.json
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\bin\Debug\netcoreapp3.1\Study_210221.runtimeconfig.dev.json
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\bin\Debug\netcoreapp3.1\Study_210221.dll
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\bin\Debug\netcoreapp3.1\Study_210221.pdb
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\obj\Debug\netcoreapp3.1\Study_210221.csprojAssemblyReference.cache
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\obj\Debug\netcoreapp3.1\Study_210221.AssemblyInfoInputs.cache
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\obj\Debug\netcoreapp3.1\Study_210221.AssemblyInfo.cs
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\obj\Debug\netcoreapp3.1\Study_210221.csproj.CoreCompileInputs.cache
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\obj\Debug\netcoreapp3.1\Study_210221.dll
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\obj\Debug\netcoreapp3.1\Study_210221.pdb
+C:\Users\inajo\Desktop\folder\Coding Practicing\code\Study_210221\Study_210221\Study_210221\obj\Debug\netcoreapp3.1\Study_210221.genruntimeconfig.cache
